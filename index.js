@@ -106,9 +106,9 @@ function draw(){
   }
   //updating theta
   t += 0.04
-  ts += 0.05
-  tss += 0.06
-  tsss += 0.07
+  ts += 0.08
+  tss += 0.16
+  tsss += 0.32
 }
 
 setInterval(function(){
